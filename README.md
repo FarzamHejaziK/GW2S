@@ -1,2 +1,2 @@
-# GW2S
-Exploring Generalization In Deep Learning for mmWave Beam Selection Using Sub-6 GHz Channels
+# Exploring Generalization In Deep Learning for mmWave Beam Selection Using Sub-6 GHz Channels
+
