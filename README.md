@@ -4,6 +4,15 @@ Code for exploring generalization in deep learning for mmWave beam selection usi
 
 This repository contains MATLAB experiment scripts for training and evaluating a neural network that predicts mmWave beam indices from sub-6 GHz channel measurements. The workflow is designed around wireless communication experiments where sub-6 GHz channel state information is transformed into an angle-delay profile and used as the input to a beam-selection classifier.
 
+## Related Publication
+
+This repository is associated with the PARAMOUNT paper:
+
+Katarina Vuckovic, Mahdi Boloursaz Mashhadi, Farzam Hejazi, Nazanin Rahnavard, and Ahmed Alkhateeb. "PARAMOUNT: Toward Generalizable Deep Learning for mmWave Beam Selection Using Sub-6 GHz Channel Measurements." IEEE Transactions on Wireless Communications, vol. 23, no. 5, pp. 5187-5202, 2024.
+
+- Paper DOI: https://doi.org/10.1109/TWC.2023.3324916
+- Author version PDF: https://lcwnlab.eecs.ucf.edu/wp-content/uploads/2023/12/PARAMOUNT_IEEE.pdf
+
 ## Research Focus
 
 The experiment studies whether a deep learning model trained on sub-6 GHz channel features can generalize to mmWave beam-selection tasks under different SNR and transmit-power settings.
